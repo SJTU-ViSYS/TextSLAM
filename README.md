@@ -1,2 +1,2 @@
 # TextSLAM
-TextSLAM is a novel visual SLAM approach tightly coupled with the semantic text features.
+TextSLAM is a novel visual SLAM system tightly coupled with the semantic text features.
