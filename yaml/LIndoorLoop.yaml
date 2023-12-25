@@ -1,0 +1,32 @@
+%YAML:1.0
+
+Exp name: 2
+Exp noText: 0
+# Exp name  : 0: general motion; 1: indoor loop 1; 2: indoor loop 2; 3: outdoor
+# Exp noText: 0: text+scene; 1: scene (only useful in exp 0, together with no text input)
+
+Exp read path: ./dataset/3_LIndoorLoop/Seq_01/
+Exp read list: Exper
+# read images from [Exp read path]+[Exp read list].txt
+
+Camera.fx: 384.396254546
+Camera.fy: 382.825746531
+Camera.cx: 315.635886103
+Camera.cy: 249.182929809
+
+Camera.k1: 0.0
+Camera.k2: 0.0
+Camera.p1: 0.0
+Camera.p2: 0.0
+Camera.k3: 0.0
+
+# Video fps
+Camera.fps: 60.0
+
+# Color order (0: BGR, 1: RGB)
+Camera.RGB: 0
+Camera.height: 480
+Camera.width: 640
+
+
+
